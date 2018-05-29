@@ -4,8 +4,10 @@ body {
 
 a {
 	text-decoration: none !important;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 a:hover {
 	color: blue;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
