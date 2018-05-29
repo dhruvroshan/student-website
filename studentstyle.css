@@ -13,8 +13,8 @@ a:hover {
 	font-family: 'Roboto Slab', serif;
 }
 
-br {
-	content: "";
-	
-
+br:before {
+    display: block;
+    margin-top: 10px;
+    content: "";
 }
