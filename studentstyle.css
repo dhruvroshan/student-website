@@ -2,12 +2,12 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-a {
+a.cool {
 	text-decoration: none !important;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-a:hover {
+a.cool:hover {
 	color: blue;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
