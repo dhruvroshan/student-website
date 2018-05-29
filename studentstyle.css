@@ -1,13 +1,13 @@
 body {	
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 a {
 	text-decoration: none !important;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 a:hover {
 	color: blue;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto Slab', serif;
 }
