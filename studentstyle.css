@@ -12,3 +12,9 @@ a:hover {
 	color: blue;
 	font-family: 'Roboto Slab', serif;
 }
+
+br {
+	content: "";
+	
+
+}
