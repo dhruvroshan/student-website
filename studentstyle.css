@@ -21,7 +21,7 @@ br:before {
 
 div {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-basis: auto;
     justify-content: center;
     align-items: center;
