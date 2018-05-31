@@ -39,6 +39,14 @@ br:before {
     transform: translateY(-20px);
     box-shadow: 5px 30px 72px rgba(10,10,10,0.30);
 }
+footer {
+    padding: 1em;
+    color: white;
+    background-color: #4286f4;
+    clear: left;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
 
 
 </script>
