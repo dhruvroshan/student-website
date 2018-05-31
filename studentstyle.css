@@ -26,14 +26,13 @@ br:before {
     justify-content: center;
     align-items: center;
     flex-grow: 2;
-    min-height: 200px;
-    width: 200px;
+    min-height: 300px;
+    width: 300px;
     background: white;
     box-shadow: 0px 5px 42px rgba(0,0,0,0.10);
     margin: 10px;
     transition: all 0.3s ease-out;
 }
-
 
 
 .div-stylin:hover{
