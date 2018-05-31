@@ -40,6 +40,8 @@ br:before {
     transform: translateY(-20px);
     box-shadow: 5px 30px 72px rgba(10,10,10,0.30);
 }
+
+/* Gallery*/
 .row > .column {
   padding: 0 8px;
 }
