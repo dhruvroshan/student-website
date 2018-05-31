@@ -19,7 +19,7 @@ br:before {
     content: "";
 }
 
-.div-stylin{
+.stylin{
     display: flex;
     flex-direction: column;
     flex-basis: auto;
@@ -36,7 +36,7 @@ br:before {
 
 
 
-.div-stylin:hover{
+.stylin:hover{
     transform: translateY(-20px);
     box-shadow: 5px 30px 72px rgba(10,10,10,0.30);
 }
